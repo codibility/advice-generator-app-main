@@ -105,7 +105,7 @@ body {
 
     #divider {
         height: 30px;
-        background: url(/images/pattern-divider-mobile.svg) no-repeat;
+        background: url(images/pattern-divider-mobile.svg) no-repeat;
         background-size: contain;
         width: 90%;
     }
