@@ -27,11 +27,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL here](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub)
 - [live site URL](https://codibility.github.io/advice-generator-app-main/)
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Amblessed Ezejim](https://www.frontendmentor.io/profile/amblessedezejim)
 - Twitter - [@Codibility](https://www.twitter.com/codibility)
